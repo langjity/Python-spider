@@ -1,0 +1,10 @@
+function main(splash)
+    splash:go("https://www.jd.com")
+    input = splash:select("#key")
+    input:send_text("Python从菜鸟到高手")
+    --input:send_keys("<Return>")
+    button = splash:select("#search > div > div.form > button")
+    button:mouse_click()
+    splash:wait(1)
+    return splash:png()
+end

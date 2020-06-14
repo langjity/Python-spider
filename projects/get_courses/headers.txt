@@ -1,0 +1,34 @@
+Host:entree.igetget.com
+X-OS:iOS
+X-NET:wifi
+Accept:*/*
+G-Auth-Ts:1555653557
+Accept-Encoding:br, gzip, deflate
+Content-Length:53
+X-TARGET:main
+User-Agent:LuoJiFMIOS/6.0.1 (iPhone; iOS 12.2; Scale/3.00)
+X-CHIL:appstore
+G-Auth-Sign:MTc0OTA2Y2M0MTQ4N2Y1MzAxNjMwMTQ4ZGNiMDU2OGQ=
+X-UID:241598824
+Cookie:acw_tc=b65cfd3a15556534737615008e62066c624ad566a848e0e1e2af25cf4e0a30; aliyungf_tc=AQAAAJ1V+1xUnAsAJJqnr8exTQQ4lVf+
+X-AV:6.0.1
+G-Auth-Nonce:630befb9da1dc3c569c7e2624dd3c924
+X-SCR:1125*2001
+X-DT:phone
+G-Auth-Appid:5a27d122ee4638163f594393
+X-BVM:a6db9193d495791554c19d4f7e97d748
+X-S-D:8ee8fac33a27497c99532a409e9df2e2
+Accept-Language:zh-Hans-CN;q=1, en-CN;q=0.9
+X-D:ccba5e81bbd242ee91a13ac700f36ed4
+X-THUMB:m
+X-T:json
+Connection:keep-alive
+X-ADV:1
+X-App-Key:ios-6.0.1
+X-OV:12.2
+Content-Type:application/x-www-form-urlencoded
+X-BV:6.0.7
+G-Auth-Token:eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJsdW9qaWxhYi5jb20iLCJleHAiOjE1NTk1NDE0NzQsImlhdCI6MTU1NTY1MzQ3NCwiaXNzIjoiRWFzZUdhdGV3YXkgSldUQXV0aCBQbHVnaW4iLCJuYmYiOjE1NTU2NTM0NzQsInN1YiI6IjI0MTU5ODgyNCJ9.XWl5kP_bmTDO9fvX3sDm0aRXUyLsxhLbDxWG2btpL00UxXUoID7FHdjFUNTykq9D-4V_-6O0aRiBR4E9yTXYoQ
+X-V:2
+X-IS_JAILBREAK:NO
+X-DV:iPhone9,2
